@@ -1,4 +1,4 @@
-# The Steel Spring App
+## The Steel Spring App
 
 An app for estimating the full-range force-defromation response of different steel members and connections based on the most recent analytical and empirical models.
                                                        
@@ -7,7 +7,7 @@ An app for estimating the full-range force-defromation response of different ste
 <img width="800" height="383" alt="image" src="https://github.com/user-attachments/assets/08c4f917-15df-4fd3-977f-92e0df72b7c3" />
 
 
-The app (v1.2511) includes models for:
+## The app (v1.2511) includes models for:
 - Steel I-shaped beam-columns
 - Steel I-shpaed beams as part of rigid welded, bolted, and RBS connections
 - Steel web panel zone in I-shpaed sections
