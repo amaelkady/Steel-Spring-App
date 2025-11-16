@@ -1,6 +1,6 @@
 # The Steel Spring App
 
-An app for estimating the full-range force-defromation response of different steel ememerbs and connections based on the most recent analytical and empirical models.
+An app for estimating the full-range force-defromation response of different steel members and connections based on the most recent analytical and empirical models.
                                                        
 <img width="800" height="272" alt="splash_spring_app" src="https://github.com/user-attachments/assets/3ba87354-fff6-42c7-96f1-8e9c583bc673" />
 
