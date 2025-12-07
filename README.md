@@ -13,5 +13,5 @@ The app (v1.2511) includes models for:
 - Steel web panel zone in I-shpaed sections
 - Partial-strength extended endplate connections
 - Flush endplate connections
-
+- High-strength bolts in tension
 
