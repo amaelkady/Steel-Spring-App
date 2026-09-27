@@ -6,6 +6,7 @@ An app for estimating the full-range force-defromation response of different ste
 
 <img width="800" height="383" alt="image" src="https://github.com/user-attachments/assets/08c4f917-15df-4fd3-977f-92e0df72b7c3" />
 
+## Check out the app's online version at https://amaelkady.github.io/Steel%20Spring%20Web%20App.html
 
 ## The app (v1.2604) includes models for:
 - Steel I-shaped columns
